@@ -46,6 +46,8 @@ gem "bootsnap", require: false
 
 gem "omniauth-github"
 
+gem "devise"
+
 gem "dotenv-rails"
 
 group :development, :test do
